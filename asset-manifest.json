@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5c3b71d.css",
-    "main.js": "/static/js/main.a2afcc36.js",
-    "static/js/787.deffc097.chunk.js": "/static/js/787.deffc097.chunk.js",
-    "static/media/hall.png": "/static/media/hall.ebe8be3a93c7b2cf4d44.png",
-    "index.html": "/index.html",
-    "main.f5c3b71d.css.map": "/static/css/main.f5c3b71d.css.map",
-    "main.a2afcc36.js.map": "/static/js/main.a2afcc36.js.map",
-    "787.deffc097.chunk.js.map": "/static/js/787.deffc097.chunk.js.map"
+    "main.css": "/sportclub-front/static/css/main.c69702e8.css",
+    "main.js": "/sportclub-front/static/js/main.e8aac762.js",
+    "static/js/787.deffc097.chunk.js": "/sportclub-front/static/js/787.deffc097.chunk.js",
+    "static/media/hall.png": "/sportclub-front/static/media/hall.ebe8be3a93c7b2cf4d44.png",
+    "index.html": "/sportclub-front/index.html",
+    "main.c69702e8.css.map": "/sportclub-front/static/css/main.c69702e8.css.map",
+    "main.e8aac762.js.map": "/sportclub-front/static/js/main.e8aac762.js.map",
+    "787.deffc097.chunk.js.map": "/sportclub-front/static/js/787.deffc097.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5c3b71d.css",
-    "static/js/main.a2afcc36.js"
+    "static/css/main.c69702e8.css",
+    "static/js/main.e8aac762.js"
   ]
 }
